@@ -1,4 +1,4 @@
-# SeedHammer GUI - Manual Fingerprint Input Modification
+# Task#3 - SeedHammer GUI - Manual Fingerprint Input Modification
 
 ## Overview
 Modify the SeedHammer GUI to **require** manual fingerprint entry before engraving. The fingerprint is never auto-derived. Additionally, set fixed metadata fields:
