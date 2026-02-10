@@ -1,4 +1,4 @@
-# Important: Restore Full 12-Word Engraving
+# Task#2 - Restore Full 12-Word Engraving
 
 ## Current Issue
 
