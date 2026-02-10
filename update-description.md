@@ -1,4 +1,4 @@
-# Job Description: SeedHammer Engraver GUI Modification
+# Update Description - SeedHammer Engraver GUI Modification
 
 ## Project Overview
 Modify the open-source SeedHammer engraver software to require manual fingerprint input and update fixed metadata fields on engraved plates.
