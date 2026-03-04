@@ -92,8 +92,16 @@ The `ScanScreen` in gui.go handles all of this automatically.
 ## Summary of What Gets Engraved (Final Version)
 
 ✓ **All 12 seed words** (or 24 if scanned)
+
 ✗ **QR code** - DISABLED (commented out)
+
 ✓ **Manual fingerprint** (from GUI input)
+
 ✓ **Version:** "SC" (not "V1")
+
 ✓ **Page:** "1/1" (not dynamic)
+
 ✓ **Title/Card Name** (if provided) - right side or bottom depending on plate size
+
+
+
