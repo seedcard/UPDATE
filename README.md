@@ -2,4 +2,4 @@
 
 Details of Tasks to be completed and and tested for new SEEDCARD version 
 
-- See Tasks files for more details 
+- See Task # files for more details 
