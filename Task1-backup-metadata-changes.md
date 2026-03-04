@@ -2,12 +2,12 @@
 
 ## IMPORTANT: Use Original Code, Not Modified Version
 
-Your backup.go file contains a **modified version** that only engraves words 4-9. 
+The backup.go file contains a **modified version** that only engraves words 4-9. 
 **This must be replaced with the original code** that engraves all 12 words.
 
 Look for the commented section labeled "Good code / original code" - that's what should be used.
 
-**HOWEVER:** Keep the QR code disabled as it is in your current modified version.
+**HOWEVER:** Keep the QR code disabled as it is in the current modified version.
 
 ## Quick Reference
 
